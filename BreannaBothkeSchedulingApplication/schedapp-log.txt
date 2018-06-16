@@ -1,0 +1,468 @@
+May 25, 2018 7:36:08 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-25T19:36:08.384.
+May 25, 2018 7:42:18 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-25T19:42:18.649.
+May 25, 2018 7:59:56 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-25T19:59:56.178.
+May 25, 2018 8:04:54 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-25T20:04:54.750.
+May 25, 2018 8:08:53 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-25T20:08:53.674.
+May 25, 2018 8:23:09 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-25T20:23:09.213.
+May 25, 2018 8:26:34 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-25T20:26:34.532./n
+May 25, 2018 8:28:28 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-25T20:28:28.716./n
+May 25, 2018 8:30:12 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: user2 successfully Logged in at 2018-05-25T20:30:12.192./n
+May 25, 2018 8:31:28 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-25T20:31:28.893./n
+May 25, 2018 8:32:37 PM breannabothkeschedulingapplication.ViewCustomersController createButtonAction
+INFO: Customer: Lily Whit was successfully created by test at 2018-05-25T20:32:37.336./n
+May 25, 2018 8:40:22 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-25T20:40:22.172./n
+May 25, 2018 8:47:43 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-25T20:47:43.789./n
+May 26, 2018 4:56:41 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-26T16:56:41.075./n
+May 26, 2018 4:57:52 PM breannabothkeschedulingapplication.ViewCustomersController deleteButtonAction
+INFO: Customer: Customer-11 was deleted by test at 2018-05-26T16:57:52.023./n
+May 26, 2018 7:46:41 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: user2 successfully Logged in at 2018-05-26T19:46:41.110./n
+May 27, 2018 4:44:45 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-27T16:44:45.097./n
+May 27, 2018 4:57:51 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-27T16:57:51.758./n
+May 27, 2018 4:58:45 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-27T16:58:45.820./n
+May 27, 2018 5:00:14 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: user2 successfully Logged in at 2018-05-27T17:00:14.368./n
+May 27, 2018 5:15:07 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: user2 successfully Logged in at 2018-05-27T17:15:07.436./n
+May 27, 2018 5:15:48 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-27T17:15:48.389./n
+May 27, 2018 5:26:19 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-27T17:26:19.631./n
+May 27, 2018 5:26:33 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: user2 successfully Logged in at 2018-05-27T17:26:33.369./n
+May 27, 2018 5:28:53 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-27T17:28:53.351./n
+May 27, 2018 5:35:04 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: user2 successfully Logged in at 2018-05-27T17:35:04.117./n
+May 27, 2018 5:56:02 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-27T17:56:02.802./n
+May 27, 2018 6:03:28 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-27T18:03:28.047./n
+May 27, 2018 7:30:10 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: user2 successfully Logged in at 2018-05-27T19:30:10.998./n
+May 27, 2018 7:30:23 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-27T19:30:23.941./n
+May 27, 2018 8:09:49 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-27T20:09:49.012./n
+May 27, 2018 8:30:10 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-27T20:30:10.813./n
+May 28, 2018 3:31:54 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-28T03:31:54.361./n
+May 28, 2018 3:35:42 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-28T03:35:42.455./n
+May 27, 2018 8:36:51 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-27T20:36:51.458./n
+May 27, 2018 7:38:30 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-27T19:38:30.387./n
+May 27, 2018 10:37:45 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-27T22:37:45.856./n
+May 27, 2018 10:40:59 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-27T22:40:59.561./n
+May 27, 2018 10:46:38 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-27T22:46:38.413./n
+May 28, 2018 5:48:13 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-28T05:48:13.313./n
+May 28, 2018 6:08:56 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-28T06:08:56.973./n
+May 28, 2018 6:17:41 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-28T06:17:41.107./n
+May 27, 2018 11:18:50 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-27T23:18:50.508./n
+May 28, 2018 1:19:11 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-28T01:19:11.355./n
+May 28, 2018 1:24:59 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-28T01:24:59.853./n
+May 28, 2018 1:33:28 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-28T01:33:28.728./n
+May 28, 2018 1:35:13 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-28T01:35:13.918./n
+May 28, 2018 1:39:34 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-28T01:39:34.605./n
+May 28, 2018 2:13:13 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-28T02:13:13.733./n
+May 28, 2018 2:29:39 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-28T02:29:39.498./n
+May 28, 2018 2:35:26 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-28T02:35:26.526./n
+May 30, 2018 3:52:03 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T15:52:03.772./n
+May 30, 2018 4:01:43 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T16:01:43.899./n
+May 30, 2018 4:07:08 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T16:07:08.339./n
+May 30, 2018 4:11:23 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T16:11:23.462./n
+May 30, 2018 4:19:56 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T16:19:56.810./n
+May 30, 2018 4:25:26 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T16:25:26.785./n
+May 30, 2018 4:31:31 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T16:31:31.638./n
+May 30, 2018 4:48:52 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T16:48:52.821./n
+May 30, 2018 4:54:42 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T16:54:42.882./n
+May 30, 2018 5:00:01 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T17:00:01.775./n
+May 30, 2018 5:21:33 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T17:21:33.787./n
+May 30, 2018 5:27:03 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T17:27:03.782./n
+May 30, 2018 5:37:30 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T17:37:30.716./n
+May 30, 2018 5:39:57 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T17:39:57.868./n
+May 30, 2018 5:51:21 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T17:51:21.391./n
+May 30, 2018 5:54:22 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T17:54:22.155./n
+May 30, 2018 6:07:22 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T18:07:22.074./n
+May 30, 2018 6:09:32 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T18:09:32.691./n
+May 30, 2018 6:10:18 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T18:10:18.264./n
+May 30, 2018 6:30:59 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T18:30:59.691./n
+May 30, 2018 6:41:05 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T18:41:05.923./n
+May 30, 2018 7:12:33 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T19:12:33.108./n
+May 30, 2018 7:22:27 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T19:22:27.103./n
+May 30, 2018 8:12:13 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T20:12:13.679./n
+May 30, 2018 8:18:50 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T20:18:50.934./n
+May 30, 2018 8:30:39 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T20:30:39.004./n
+May 30, 2018 8:34:45 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-05-30T20:34:45.629./n
+Jun 01, 2018 12:46:02 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-01T12:46:02.739./n
+Jun 01, 2018 4:38:17 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-01T16:38:17.075./n
+Jun 01, 2018 4:57:56 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-01T16:57:56.582./n
+Jun 01, 2018 5:05:12 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-01T17:05:12.392./n
+Jun 01, 2018 5:16:25 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-01T17:16:25.313./n
+Jun 01, 2018 5:17:23 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-01T17:17:23.045./n
+Jun 01, 2018 5:19:25 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-01T17:19:25.650./n
+Jun 02, 2018 1:14:10 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-02T13:14:10.006./n
+Jun 02, 2018 1:17:11 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-02T13:17:11.895./n
+Jun 02, 2018 5:30:36 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-02T17:30:36.187./n
+Jun 02, 2018 5:34:48 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-02T17:34:48.235./n
+Jun 05, 2018 10:42:51 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-05T10:42:51.068./n
+Jun 05, 2018 1:41:00 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-05T13:41:00.810./n
+Jun 05, 2018 5:11:58 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-05T17:11:58.705./n
+Jun 05, 2018 5:17:33 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-05T17:17:33.909./n
+Jun 05, 2018 5:20:06 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-05T17:20:06.725./n
+Jun 05, 2018 5:21:33 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-05T17:21:33.782./n
+Jun 06, 2018 9:46:05 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T09:46:05.129./n
+Jun 06, 2018 9:47:10 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T09:47:10.839./n
+Jun 06, 2018 9:49:22 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T09:49:22.895./n
+Jun 06, 2018 9:52:33 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T09:52:33.459./n
+Jun 06, 2018 9:57:10 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T09:57:10.892./n
+Jun 06, 2018 9:59:47 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T09:59:47.103./n
+Jun 06, 2018 10:01:32 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T10:01:32.736./n
+Jun 06, 2018 10:08:31 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T10:08:31.410./n
+Jun 06, 2018 10:10:03 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T10:10:03.890./n
+Jun 06, 2018 10:15:13 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T10:15:13.886./n
+Jun 06, 2018 10:27:08 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T10:27:08.174./n
+Jun 06, 2018 10:30:10 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T10:30:10.633./n
+Jun 06, 2018 10:31:46 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T10:31:46.568./n
+Jun 06, 2018 10:36:34 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T10:36:34.609./n
+Jun 06, 2018 10:46:27 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T10:46:27.919./n
+Jun 06, 2018 10:47:18 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T10:47:18.018./n
+Jun 06, 2018 10:48:41 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T10:48:41.417./n
+Jun 06, 2018 10:49:17 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T10:49:17.892./n
+Jun 06, 2018 11:17:10 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T11:17:10.503./n
+Jun 06, 2018 11:17:44 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T11:17:44.631./n
+Jun 06, 2018 11:25:09 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T11:25:09.278./n
+Jun 06, 2018 11:29:03 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T11:29:03.170./n
+Jun 06, 2018 11:31:30 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T11:31:30.578./n
+Jun 06, 2018 11:36:22 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T11:36:22.078./n
+Jun 06, 2018 12:00:31 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T12:00:31.619./n
+Jun 06, 2018 12:03:36 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T12:03:36.226./n
+Jun 06, 2018 12:05:44 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T12:05:44.150./n
+Jun 06, 2018 12:10:29 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T12:10:29.717./n
+Jun 06, 2018 12:12:15 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T12:12:15.094./n
+Jun 06, 2018 12:23:22 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T12:23:22.841./n
+Jun 06, 2018 12:27:20 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T12:27:20.511./n
+Jun 06, 2018 12:28:32 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T12:28:32.738./n
+Jun 06, 2018 12:29:47 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T12:29:47.246./n
+Jun 06, 2018 12:31:44 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T12:31:44.370./n
+Jun 06, 2018 12:32:41 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T12:32:41.245./n
+Jun 06, 2018 12:56:53 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T12:56:53.399./n
+Jun 06, 2018 12:58:01 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T12:58:01.781./n
+Jun 06, 2018 1:00:04 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T13:00:04.375./n
+Jun 06, 2018 1:02:52 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T13:02:52.257./n
+Jun 06, 2018 1:10:44 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T13:10:44.267./n
+Jun 06, 2018 1:15:11 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T13:15:11.463./n
+Jun 06, 2018 1:18:00 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T13:18:00.615./n
+Jun 06, 2018 1:21:16 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T13:21:16.762./n
+Jun 06, 2018 1:24:44 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T13:24:44.716./n
+Jun 06, 2018 1:26:21 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-06T13:26:21.355./n
+Jun 07, 2018 10:42:22 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-07T10:42:22.121./n
+Jun 07, 2018 10:47:34 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-07T10:47:34.938./n
+Jun 08, 2018 11:44:57 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T11:44:57.541./n
+Jun 08, 2018 12:13:01 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T12:13:01.185./n
+Jun 08, 2018 12:17:22 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T12:17:22.500./n
+Jun 08, 2018 12:31:34 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T12:31:34.016./n
+Jun 08, 2018 12:32:52 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T12:32:52.597./n
+Jun 08, 2018 2:44:11 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T14:44:11.141./n
+Jun 08, 2018 2:45:06 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T14:45:06.613./n
+Jun 08, 2018 2:51:42 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T14:51:42.581./n
+Jun 08, 2018 2:52:52 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T14:52:52.081./n
+Jun 08, 2018 2:54:56 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T14:54:56.593./n
+Jun 08, 2018 2:59:13 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T14:59:13.361./n
+Jun 08, 2018 3:29:36 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T15:29:36.225./n
+Jun 08, 2018 3:34:06 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T15:34:06.340./n
+Jun 08, 2018 3:43:33 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T15:43:33.183./n
+Jun 08, 2018 3:46:20 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T15:46:20.539./n
+Jun 08, 2018 3:47:46 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T15:47:46.667./n
+Jun 08, 2018 3:52:15 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T15:52:15.073./n
+Jun 08, 2018 3:58:03 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T15:58:03.411./n
+Jun 08, 2018 4:12:10 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T16:12:10.683./n
+Jun 08, 2018 4:18:53 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T16:18:53.490./n
+Jun 08, 2018 4:26:41 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T16:26:41.727./n
+Jun 08, 2018 5:29:23 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T17:29:23.096./n
+Jun 08, 2018 5:45:05 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T17:45:05.874./n
+Jun 08, 2018 6:00:34 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T18:00:34.961./n
+Jun 08, 2018 6:05:19 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-08T18:05:19.247./n
+Jun 09, 2018 10:36:33 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-09T10:36:33.603./n
+Jun 09, 2018 5:37:13 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-09T17:37:13.542./n
+Jun 09, 2018 5:39:34 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-09T17:39:34.313./n
+Jun 09, 2018 11:24:58 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-09T11:24:58.862./n
+Jun 09, 2018 11:31:25 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-09T11:31:25.335./n
+Jun 09, 2018 11:46:32 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-09T11:46:32.168./n
+Jun 09, 2018 11:48:14 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-09T11:48:14.959./n
+Jun 09, 2018 11:49:13 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-09T11:49:13.545./n
+Jun 09, 2018 11:52:03 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-09T11:52:03.495. /n
+Jun 09, 2018 12:16:41 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-09T12:16:41.387. /n
+Jun 09, 2018 8:21:12 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-09T20:21:12.031. /n
+Jun 09, 2018 8:22:14 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-09T20:22:14.213. /n
+Jun 09, 2018 8:31:14 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-09T20:31:14.298. /n
+Jun 09, 2018 8:32:03 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-09T20:32:03.343. /n
+Jun 09, 2018 8:34:39 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-09T20:34:39.380. /n
+Jun 09, 2018 9:10:36 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-09T21:10:36.380. /n
+Jun 09, 2018 9:12:27 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-09T21:12:27.587. /n
+Jun 11, 2018 12:44:31 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-11T12:44:31.799. /n
+Jun 11, 2018 12:46:21 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-11T12:46:21.001. /n
+Jun 11, 2018 1:01:16 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-11T13:01:16.731. /n
+Jun 11, 2018 1:03:00 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-11T13:03:00.649. /n
+Jun 11, 2018 1:27:03 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-11T13:27:03.247. /n
+Jun 11, 2018 1:40:01 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-11T13:40:01.956. /n
+Jun 11, 2018 1:51:36 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-11T13:51:36.173. /n
+Jun 11, 2018 1:52:36 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-11T13:52:36.489. /n
+Jun 11, 2018 2:04:17 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-11T14:04:17.097. /n
+Jun 11, 2018 2:05:12 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-11T14:05:12.603. /n
+Jun 11, 2018 2:20:18 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-11T14:20:18.870. /n
+Jun 11, 2018 3:55:07 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-11T15:55:07.582. /n
+Jun 11, 2018 4:01:12 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-11T16:01:12.537. /n
+Jun 11, 2018 6:54:21 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-11T18:54:21.916. /n
+Jun 11, 2018 6:58:30 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-11T18:58:30.600. /n
+Jun 13, 2018 11:17:11 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-13T11:17:11.528. /n
+Jun 13, 2018 11:19:15 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-13T11:19:15.897. /n
+Jun 13, 2018 11:22:52 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-13T11:22:52.277. /n
+Jun 13, 2018 11:05:51 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-13T23:05:51.731. /n
+Jun 13, 2018 11:08:24 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-13T23:08:24.170. /n
+Jun 13, 2018 11:09:25 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-13T23:09:25.130. /n
+Jun 13, 2018 11:13:14 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-13T23:13:14.118. /n
+Jun 13, 2018 11:15:48 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-13T23:15:48.008. /n
+Jun 13, 2018 11:16:47 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-13T23:16:47.866. /n
+Jun 13, 2018 11:19:38 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-13T23:19:38.477. /n
+Jun 13, 2018 11:55:04 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-13T23:55:04.978. /n
+Jun 14, 2018 12:00:22 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T00:00:22.095. /n
+Jun 14, 2018 12:04:24 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T00:04:24.415. /n
+Jun 14, 2018 12:06:07 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T00:06:07.472. /n
+Jun 14, 2018 12:07:19 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T00:07:19.808. /n
+Jun 14, 2018 12:13:13 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T00:13:13.874. /n
+Jun 14, 2018 12:15:51 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T00:15:51.061. /n
+Jun 14, 2018 12:16:19 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T00:16:19.256. /n
+Jun 14, 2018 11:36:48 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T11:36:48.108. /n
+Jun 14, 2018 11:38:07 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T11:38:07.320. /n
+Jun 14, 2018 11:48:15 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T11:48:15.454. /n
+Jun 14, 2018 11:59:16 AM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T11:59:16.940. /n
+Jun 14, 2018 12:12:30 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T12:12:30.728. /n
+Jun 14, 2018 12:16:36 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T12:16:36.615. /n
+Jun 14, 2018 12:18:59 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T12:18:59.163. /n
+Jun 14, 2018 12:24:43 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T12:24:43.801. /n
+Jun 14, 2018 12:30:40 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T12:30:40.931. /n
+Jun 14, 2018 1:00:03 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T13:00:03.444. /n
+Jun 14, 2018 1:11:31 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T13:11:31.873. /n
+Jun 14, 2018 1:14:01 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T13:14:01.600. /n
+Jun 14, 2018 1:14:51 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-14T13:14:51.348. /n
+Jun 15, 2018 9:14:11 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-15T21:14:11.708. /n
+Jun 15, 2018 9:41:06 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-15T21:41:06.161. /n
+Jun 15, 2018 9:47:45 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-15T21:47:45.894. /n
+Jun 15, 2018 9:50:08 PM breannabothkeschedulingapplication.LoginController loginButtonAction
+INFO: User: test successfully Logged in at 2018-06-15T21:50:08.131. /n

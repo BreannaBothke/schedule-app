@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.cell.PropertyValueFactory?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="429.0" prefWidth="916.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="breannabothkeschedulingapplication.ViewCustomersController">
+   <children>
+      <AnchorPane layoutX="22.0" layoutY="67.0" prefHeight="312.0" prefWidth="873.0" style="-fx-border-color: grey; -fx-border-radius: 10;">
+         <children>
+            <TextField fx:id="nameTextField" alignment="CENTER" layoutX="113.0" layoutY="61.0" prefHeight="25.0" prefWidth="86.0" promptText="John Smith" />
+            <TextField fx:id="streetTextField" alignment="CENTER" layoutX="113.0" layoutY="97.0" prefHeight="25.0" prefWidth="128.0" promptText="1221 S Orchard St." />
+            <TextField fx:id="aptTextField" alignment="CENTER" layoutX="113.0" layoutY="133.0" prefHeight="25.0" prefWidth="50.0" promptText="301" />
+            <TextField fx:id="cityTextField" alignment="CENTER" layoutX="113.0" layoutY="169.0" prefHeight="25.0" prefWidth="86.0" promptText="Phoenix" />
+            <TextField fx:id="zipTextField" alignment="CENTER" layoutX="260.0" layoutY="170.0" prefHeight="25.0" prefWidth="50.0" promptText="55555" />
+            <ChoiceBox fx:id="countryChoiceBox" layoutX="113.0" layoutY="205.0" prefHeight="25.0" prefWidth="86.0" />
+            <TextField fx:id="phoneTextField" alignment="CENTER" layoutX="113.0" layoutY="242.0" prefHeight="25.0" prefWidth="86.0" promptText="xxx-xxx-xxxx" />
+             
+            <Button fx:id="createButton" defaultButton="true" layoutX="238.0" layoutY="263.0" mnemonicParsing="false" onAction="#createButtonAction" prefHeight="28.0" prefWidth="86.0" text="Create" />
+            
+            <TableView fx:id="customersTableView" layoutX="388.0" layoutY="14.0" prefHeight="245.0" prefWidth="475.0">
+              <columns>
+                <TableColumn fx:id="customerIdColumn" prefWidth="45.0" text="ID">
+                    <cellValueFactory> <PropertyValueFactory property="customerId" /> </cellValueFactory>
+                </TableColumn>
+                <TableColumn fx:id="customerNameColumn" prefWidth="125.0" text="Customer Name">
+                    <cellValueFactory> <PropertyValueFactory property="customerName" /> </cellValueFactory>
+                </TableColumn>
+                  <TableColumn fx:id="addressColumn" prefWidth="197.0" text="Address">
+                      <cellValueFactory> <PropertyValueFactory property="address" /> </cellValueFactory>
+                </TableColumn>
+                  <TableColumn fx:id="phoneColumn" prefWidth="107.0" text="Phone">
+                      <cellValueFactory> <PropertyValueFactory property="phone" /> </cellValueFactory>
+                </TableColumn>
+              </columns>
+            </TableView>
+            
+            <Label fx:id="nameLabel" layoutX="43.0" layoutY="62.0" text="Name: ">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Label>
+            <Label fx:id="streetLabel" layoutX="45.0" layoutY="98.0" text="Street: ">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Label>
+            <Label fx:id="cityLabel" layoutX="43.0" layoutY="170.0" text="City: ">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Label>
+            <Label fx:id="zipLabel" layoutX="219.0" layoutY="171.0" text="Zip: ">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Label>
+            <Label fx:id="aptLabel" layoutX="44.0" layoutY="134.0" text="Apt:">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Label>
+            <Label fx:id="countryLabel" layoutX="42.0" layoutY="206.0" text="Country: ">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Label>
+            <Label fx:id="phoneLabel" layoutX="43.0" layoutY="243.0" text="Phone: ">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Label>
+            <ButtonBar layoutX="663.0" layoutY="257.0" prefHeight="40.0" prefWidth="200.0">
+              <buttons>
+                <Button fx:id="deleteButton" alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" onAction="#deleteButtonAction" text="Delete" />
+                  <Button fx:id="updateButton" alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" onAction="#updateButtonAction" text="Update" />
+              </buttons>
+            </ButtonBar>
+            <Label fx:id="newCustomerLabel" alignment="CENTER" layoutX="77.0" layoutY="9.0" prefHeight="44.0" prefWidth="190.0" text="New Customer">
+               <font>
+                  <Font name="AR CENA" size="24.0" />
+               </font>
+            </Label>
+            <Separator layoutX="19.0" layoutY="45.0" prefHeight="4.0" prefWidth="305.0" />
+            <Label fx:id="tableErrorLabel" layoutX="389.0" layoutY="269.0" prefHeight="17.0" prefWidth="305.0" textFill="#f20707" />
+         </children>
+      </AnchorPane>
+      <Label fx:id="customersLabel" alignment="CENTER" contentDisplay="CENTER" layoutX="373.0" layoutY="14.0" prefHeight="48.0" prefWidth="171.0" text="Customers" textAlignment="CENTER">
+         <font>
+            <Font name="AR CENA" size="36.0" />
+         </font>
+      </Label>
+      <Button fx:id="backButton" layoutX="820.0" layoutY="388.0" mnemonicParsing="false" onAction="#backButtonAction" prefHeight="25.0" prefWidth="75.0" text="Back" />
+      <Label fx:id="errorLabel" layoutX="22.0" layoutY="392.0" prefHeight="17.0" prefWidth="784.0" textFill="#fc0707" />
+   </children>
+</AnchorPane>
